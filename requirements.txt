@@ -5,4 +5,7 @@ scipy
 matplotlib
 seaborn
 nltk
-string
+spacy
+transformers
+torch
+tensorflow
