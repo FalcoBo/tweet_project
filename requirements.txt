@@ -9,3 +9,5 @@ spacy
 transformers
 torch
 tensorflow
+wordcloud
+pytest
